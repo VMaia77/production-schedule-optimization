@@ -2,6 +2,12 @@
 
 My aim with this project was to design an API to optimize the production schedule of a factory by taking into account the horizon of d days and the demand for P items. The solver will optimize each machine's production, working hours, and on/off schedule based on some constraints and the costs associated with each machine. Additionally, a user interface application has been developed to simplify the use of the API.
 
+### **Interface**
+
+When the API is on the interface can be used to make requests in the API. The interface looks like:
+
+![Screenshot](docs/readme/interface.jpg)
+
 ## **Setup**
 
 *See solver section below about the solver executables.*
